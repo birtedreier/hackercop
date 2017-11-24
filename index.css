@@ -1,1 +1,21 @@
+body {
+  background: white;
+  color: grey;
+  font-family: "Courier New", monospace;
+  text-align: center;
+}
 
+h1 {
+  color: black;
+  font-family: "Verdana";
+}
+
+h4 {
+  color: #9999ff;
+}
+
+ol {
+  width: auto;
+  text-align: left;
+  display: inline-block;
+}
